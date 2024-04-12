@@ -7,6 +7,13 @@
 
 ---
 
+### ☎️ Контакты
+:mailbox: sidash.anatolii@yandex.ru
+
+📱 https://t.me/Anatoly_Sidash
+
+---
+
 ### 👨‍🔧 Обо мне
 
 - :factory: Сейчас я работаю над несколькими IT проектами в автобилестроительной компании. 
@@ -40,10 +47,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnatolySidash&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AnatolySidash&theme=light&background=ffffff)](https://git.io/streak-stats)
-
----
-
-### ☎️ Контакты
-:mailbox: sidash.anatolii@yandex.ru
-
-📱 https://t.me/Anatoly_Sidash
